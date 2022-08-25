@@ -1,6 +1,3 @@
-//  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
-
-//  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
 
 #include <stdlib.h>
 #include <stdio.h>
